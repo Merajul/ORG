@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background:#cccccc;
+}
+
+.wrapper-area{
+    width: 980px;
+    height: auto;
+    margin: 0px auto;
+    background:#ccccff;
+}
+.banner-area{
+    width: 1000px;
+    height: 200px;
+    float: left;
+    background:whitesmoke;
+   
+}
+.banner-area img{
+    width: 1000px;
+    height: 200px;
+}
+.menu-area{
+    margin-top: 2px;
+    float: left;
+    background: #FFFFFF;
+    width: 1000px;
+    height: 50px;
+    border-bottom: 1px solid gray;
+    
+}
+.menu-area ul{
+    list-style: none;
+    
+}
+.menu-area ul li{
+    padding: 0px 20px;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+   
+}
+.menu-area ul li a{
+    text-decoration: none;
+    display: block;
+    color: #0033cc;
+}
+.add-category-area{
+    width:1000px;
+    height:500px;
+    float: left;
+    background: #FFFFFF;
+}
+.add-category-area h2{
+    text-align: center;
+    margin-top: 20px;
+    color: #0033ff;
+}
+.delivare-repot{
+    width: 200px;
+    height: 60px;
+    float: left;
+    background:#FFFFFF;
+    margin-left:220px;
+    margin-top: -200px;
+    line-height: 60px;
+    text-align: center;
+}
+.add-category-show-output{
+    width: auto;
+    height: 380px;
+    float: left;
+    margin-top: 50px;
+/*    background: pink;*/
+    margin-left: 50px;
+    border: 1px solid gray;
+}
+.add-category-show-output h2{
+    text-align: center;
+}
+.category-show-tb{
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.category-show-tb tr td{
+    width:150px;
+/*    background: #ff6666;*/
+}
+/*user_area -page start ----*/
+.user_area{
+    width: 1000px;
+    height: 600px;
+    background: #ffcccc;
+    margin: 0px auto;
+    
+}
+.user-form{
+    width: 1000px;
+    height: 400px;
+    float: left;
+    background: #cccfff;
+}
+.user-form h2{
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid gray;
+}
+.user-tb{
+    float:left;
+    margin-left: 100px;
+    margin-top: 20px;
+    
+}
+
+/*profile--style start---*/
+.profile-form{
+    width: 1000px;
+    height:auto;
+    float: left;
+    background: #FFFFFF;
+        
+}
+.profile-form h2{
+    text-align: center;
+    margin-top: 20px;
+    color: #0033ff;
+}
+.form-tb{
+    float: left;
+    margin-left:150px;
+    margin-top:50px;
+}
+.add-brand-form{
+    width: 1000px;
+    height: 1000px;
+    float: left;
+    background:#FFFFFF;
+}
+.add-brand-form h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.brand{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.sub_category{
+    width:1000px;
+    height: 1000px;
+    float: left;
+    background: #FFFFFF;
+}
+.sub_category h2{
+    text-align: center;
+    margin-top: 30px;
+    color: #0000cc;
+}
+.sub-category-tb{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.product_area{
+    width: 1000px;
+    height: auto;
+    float: left;
+    background: white;
+}
+.product_area h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.product-tb{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+/*menu-area---start----*/
+
+/*login_area--start--form----------------*/
+.login_area{
+    width: 400px;
+    height: 350px;
+    margin: 0px auto;
+    background: #ffccff;
+    border-radius: 5px;
+    margin-top: 120px;
+}
+/*registion_area---start---*/
+
+.registion_area{
+    width: 1000px;
+    height: 600px;
+    float: left;
+    background: #FFFFFF;
+}
+.registration-tb{
+    margin-left: 50px; 
+    margin-top: 20px; 
+    float: left;
+}
+.registion_form{
+    width: 400px;
+    height: 350px;
+    background: #FFFFFF;
+    margin: 0px auto; 
+    border-radius: 5px;
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px 0px gray;
+    border: 1px solid gray;
+        
+}

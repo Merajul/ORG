@@ -1,0 +1,23 @@
+.clearfix:after {
+  /*display: block;*/
+  /*height: 0;*/
+  /*clear: both;*/
+  /*visibility: hidden;*/
+  /*content: '.';*/
+}
+
+.clearfix {
+    /*display: inline-block;*/
+}
+* html .clearfix {
+    /*height: 1%;*/
+}
+.clearfix {
+    /*display: block;*/
+}
+.carouselTicker ul.text-right li{
+    /*width: 100%;*/
+    float: left;
+ 
+    padding: 0px;
+}

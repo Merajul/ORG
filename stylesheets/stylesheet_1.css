@@ -1,0 +1,26 @@
+
+/*.inner {
+  position: relative;
+  width: 1130px;
+  margin: 0 auto;
+}*/
+
+#content-wrapper {
+    padding-top: 30px;
+    border-top: solid 1px #fff;
+}
+
+#main-content {
+    padding-top: 0px;
+    margin-top: 0px;
+    float: left;
+    width: 100%;
+}
+
+#main-content img {
+    width: 100%;
+}
+li.carouselTicker__item img{
+    width: 250px!important;
+    height: 200px;
+}
